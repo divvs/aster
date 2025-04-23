@@ -10,9 +10,11 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@electric-sql/pglite": "^0.2.17",
 		"react": "^19.1.0",
 		"react-dom": "^19.1.0",
-		"tailwindcss": "^4.1.4"
+		"tailwindcss": "^4.1.4",
+		"tinybase": "^6.0.4"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
