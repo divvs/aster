@@ -33,7 +33,7 @@
 			"quoteStyle": "single",
 			"indentStyle": "space",
 			"indentWidth": 2,
-			"semicolons": "asNeeded"
+			"semicolons": "asNeeded" /* 'asNeeded' is breaking code rn */
 		}
 	},
 	"json": {
